@@ -9,9 +9,9 @@ CTRL + SHIFT + ESC
 explorer
 ```
 
-- ## VSCode から C# を実行
-  - ## タスクマネージャで確認
-    - プロセスの強制終了
-    ```
-    taskkill /F /IM dotnet.exe
-    ```
+## VSCode から C# を実行
+- ## タスクマネージャで確認
+  - プロセスの強制終了
+  ```
+  taskkill /F /IM dotnet.exe
+  ```
