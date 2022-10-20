@@ -10,6 +10,7 @@ taskkill /F /IM explorer.exe
 ```
 ## タスクマネージャを起動して explorer.exe を実行
 
+<br><br>
 
 ## VSCode から C# を実行
 - ## タスクマネージャで確認
