@@ -30,3 +30,5 @@ explorer
 - ## イメージパス名
   - ## chrome.exe を選択して CTRL + C
     - ## EXCEL に貼り付け
+    ![image](https://user-images.githubusercontent.com/1501327/197075142-bdd695ea-4f33-4b92-90ae-535e817f5c40.png)
+
