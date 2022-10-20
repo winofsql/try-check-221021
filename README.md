@@ -16,3 +16,11 @@ explorer
   ```
   taskkill /F /IM dotnet.exe
   ```
+
+## Excel を実行
+- ## タスクマネージャで確認
+  ![image](https://user-images.githubusercontent.com/1501327/197074048-0952b9bd-1cd3-4c90-91c8-6af9bc0d2f7d.png)
+  - ## プロセスの強制終了
+  ```
+  taskkill /IM excel.exe
+  ```
