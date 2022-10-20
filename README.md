@@ -4,10 +4,12 @@
 ```
 CTRL + SHIFT + ESC
 ```
-## エクスプローラ
-```
-explorer
-```
+  - ## エクスプローラ強制終了
+  ```
+  taskkill /F /IM explorer.exe
+  ```
+    - ## 全てのウインドウを閉じる
+      - ## タスクマネージャを起動して explorer.exe を実行
 
 ## VSCode から C# を実行
 - ## タスクマネージャで確認
