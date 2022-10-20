@@ -24,3 +24,6 @@ explorer
   ```
   taskkill /IM excel.exe
   ```
+
+## タスクマネージャ 詳細タブの列追加( タイトル部分を右クリック => 列選択 )
+![image](https://user-images.githubusercontent.com/1501327/197074797-7887d7fb-4e8f-43eb-892e-84ce9013be65.png)
