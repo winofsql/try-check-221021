@@ -4,3 +4,7 @@
 ```
 CTRL + SHIFT + ESC
 ```
+## エクスプローラ
+```
+explorer
+```
