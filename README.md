@@ -8,7 +8,7 @@ CTRL + SHIFT + ESC
   ```
   taskkill /F /IM explorer.exe
   ```
-
+  <br>
     - ## 全てのウインドウを閉じる
       - ## タスクマネージャを起動して explorer.exe を実行
 
